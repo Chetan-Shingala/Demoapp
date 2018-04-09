@@ -10,8 +10,8 @@ and open the template in the editor.
 require_once './Facebook/autoload.php';
 
 $fb = new Facebook\Facebook([
-  'app_id' => '194203597973269',
-  'app_secret' => '51e2a48c64fb98dfc4bdc68676f84d33',
+  'app_id' => '',
+  'app_secret' => '',
   'default_graph_version' => 'v2.10',
   ]);
 
